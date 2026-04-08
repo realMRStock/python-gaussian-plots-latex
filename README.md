@@ -41,3 +41,8 @@ The script also highlights how to:
 
 ```bash
 pip install numpy scipy matplotlib seaborn
+
+---
+
+## 📚 License
+This project is licensed under the MIT License.
